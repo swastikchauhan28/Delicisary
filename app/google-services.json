@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164809941425",
+    "project_id": "delicisaryproject",
+    "storage_bucket": "delicisaryproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164809941425:android:75633291f72462010d5d90",
+        "android_client_info": {
+          "package_name": "com.swastik.delicisary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJ6eCPqgsRgvE53vPuIDWVkGTYOY9Lbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
